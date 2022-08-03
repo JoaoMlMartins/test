@@ -10,4 +10,8 @@ public class Utils {
     public static int mod(int x, int y) {
         return x % y;
     }
+
+    public static void morcon() {
+        System.out.println("MOOOOORCON!");
+    }
 }
