@@ -23,4 +23,8 @@ public class Utils {
     public static int mod ( int x, int y){
         return x % y;
     }
+
+    public void lol() {
+        System.out.println("lolol");
+    }
 }
