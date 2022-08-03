@@ -14,4 +14,7 @@ public class Utils {
     public static void morcon() {
         System.out.println("MOOOOORCON!");
     }
+    public static int div(int x, int y) {
+        return x / y;
+    }
 }
