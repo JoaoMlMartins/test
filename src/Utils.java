@@ -1,6 +1,4 @@
 public class Utils {
-
-
     public static int add(int x, int y) {
         return x + y;
     }
@@ -12,7 +10,6 @@ public class Utils {
     public static int mul(int x, int y) {
         return x * y;
     }
-
 
     public static int div(int x, int y) {
         return x / y;
@@ -27,8 +24,8 @@ public class Utils {
         System.out.println("WOLOLO");
     }
 
+
     public void lol() {
         System.out.println("lolol");
     }
-
 }
