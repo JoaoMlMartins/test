@@ -27,4 +27,7 @@ public class Utils {
     public void lol() {
         System.out.println("lolol");
     }
+    public static int div(int x, int y) {
+        return x / y;
+    }
 }
