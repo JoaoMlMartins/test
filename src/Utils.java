@@ -6,4 +6,8 @@ public class Utils {
     public static int sub(int x, int y) {
         return x - y;
     }
+
+    public static int mod(int x, int y) {
+        return x % y;
+    }
 }
