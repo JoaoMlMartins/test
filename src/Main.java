@@ -4,5 +4,6 @@ public class Main {
         System.out.println("test GitHub");
         System.out.println("AAAAAAAA");
         System.out.println("asdasdasdasdasd");
+        System.out.println("OOOOF");
     }
 }
