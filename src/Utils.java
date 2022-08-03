@@ -15,10 +15,7 @@ public class Utils {
     }
     public static void augh() {
         System.out.println("AUGH!");
-
-
-    public static int mod(int x, int y) {
-        return x % y;
-
+        System.out.println("WOLOLO");
     }
+
 }
