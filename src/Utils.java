@@ -15,7 +15,7 @@ public class Utils {
         return x / y;
     }
 
-    public static int mod ( int x, int y){
+    public static int mod(int x, int y) {
         return x % y;
     }
 
@@ -29,7 +29,4 @@ public class Utils {
         System.out.println("lolol");
     }
 
-    public static int div(int x, int y) {
-        return x / y;
-    }
 }
