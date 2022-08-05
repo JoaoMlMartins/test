@@ -15,7 +15,7 @@ public class Utils {
         return x / y;
     }
 
-    public static int mod ( int x, int y){
+    public static int mod(int x, int y) {
         return x % y;
     }
 
