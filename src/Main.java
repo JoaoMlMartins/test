@@ -19,5 +19,6 @@ public class Main {
         int b = scanner.nextInt();
         int result = solution(a, b);
         System.out.println(result);
+        scanner.close();
     }
 }
