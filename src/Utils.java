@@ -7,20 +7,25 @@ public class Utils {
         return x - y;
     }
 
-    public static int mod(int x, int y) {
-        return x % y;
-    }
-
-    public static void morcon() {
-        System.out.println("MOOOOORCON!");
+    public static int mul(int x, int y) {
+        return x * y;
     }
 
     public static int div(int x, int y) {
         return x / y;
     }
 
-    public static void augh() {
-        System.out.println("AUGH!");
+    public static int mod(int x, int y) {
+        return x % y;
     }
 
+    public static void augh() {
+        System.out.println("AUGH!");
+        System.out.println("WOLOLO");
+    }
+
+
+    public void lol() {
+        System.out.println("lolol");
+    }
 }
