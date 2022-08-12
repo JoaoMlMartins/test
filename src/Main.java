@@ -14,6 +14,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        System.out.println("test GitHub in IntelliJ");
+        System.out.println("aaaa");
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
