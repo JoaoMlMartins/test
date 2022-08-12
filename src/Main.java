@@ -20,6 +20,7 @@ public class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int result = solution(a, b);
+        System.out.println("Masters digital pimp");
         System.out.println(result);
         scanner.close();
     }
